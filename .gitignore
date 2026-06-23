@@ -35,3 +35,16 @@ out/
 
 ### VS Code ###
 .vscode/
+/AGENTS.md
+/ai/roles/backend-reviewer.md
+/ai/common/change-process.md
+/ai/private/mistakes.md
+/ai/roles/planner.md
+/ai/templates/project-content-template.md
+/ai/private/prompt-experiments.md
+/ai/roles/qa-reviewer.md
+/ai/common/review-checklist.md
+/ai/stacks/spring-boot-jdbc.md
+/ai/templates/task-contract-template.md
+/ai/templates/testing-strategy-template.md
+/ai/common/working-principles.md
